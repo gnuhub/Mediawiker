@@ -1,10 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<font color="red">
-${1:$TM_SELECTED_TEXT}
-</font>
+<font color="red">${1:$TM_SELECTED_TEXT}</font>
 ]]></content>
-<tabTrigger>wred</tabTrigger>
+<tabTrigger>r</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 <description>Mediawiker: Red font</description>

@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
-<syntaxhighlight lang="${1}" line start="1" highlight="1" enclose="div">
+<syntaxhighlight lang="${1}" enclose="div">
 ${2:$TM_SELECTED_TEXT}
 </syntaxhighlight>
 ]]></content>
-<tabTrigger>wsrc</tabTrigger>
+<tabTrigger>s</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 <description>Mediawiker: Source tag</description>
