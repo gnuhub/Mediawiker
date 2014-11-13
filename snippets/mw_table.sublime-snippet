@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+{| border=1  cellpadding=10 cellspacing=0
+!  名称 !! 说明 
+|- 
+| 
+| 
+|-
+| 
+| 
+|-
+| 
+| 
+|-
+| 
+| 
+|-
+| 
+| 
+|-
+|}
+]]></content>
+<tabTrigger>t</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+<description>Mediawiker: table default</description>
+</snippet>
