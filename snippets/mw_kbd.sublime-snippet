@@ -1,12 +1,9 @@
 <snippet>
 	<content><![CDATA[
-# ${1:$TM_SELECTED_TEXT}
-# ${2}
-# ${3}
-# ${4}
+<kbd>${1:$TM_SELECTED_TEXT}</kbd>
 ]]></content>
-<tabTrigger>woli</tabTrigger>
+<tabTrigger>wkbd</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 <scope>text.html.mediawiki</scope>
-<description>Mediawiker: Numbered list</description>
+<description>Mediawiker: Kbd</description>
 </snippet>
